@@ -1,1 +1,1 @@
-# BDA_LAB_SEM6
+# Codes for Big Data Analytics Lab (Semester 6 at MIT Manipal)
